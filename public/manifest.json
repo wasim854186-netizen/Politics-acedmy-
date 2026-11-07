@@ -1,0 +1,17 @@
+{
+  "name": "Politics Academy – Learn Politics from Zero to Pro",
+  "short_name": "PoliticsAcademy",
+  "description": "Learn Politics, Democracy, Constitution, Elections, and Leadership from Zero to Pro.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080d1e",
+  "theme_color": "#0B132B",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

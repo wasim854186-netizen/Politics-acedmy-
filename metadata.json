@@ -1,0 +1,6 @@
+{
+  "name": "Politics Academy – Learn Politics from Zero to Pro",
+  "description": "A premium mobile-first political education platform teaching democracy, the Indian Constitution, elections, parliamentary procedures, and ethical political leadership from zero to pro in Hindi and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
